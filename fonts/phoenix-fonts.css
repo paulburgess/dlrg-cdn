@@ -1,0 +1,26 @@
+@font-face {
+	 font-family: 'alphaonesemibold';
+	 src: url('https://cdn.jsdelivr.net/gh/paulburgess/dlrg-cdn/fonts/alphaone_semibold.woff2') format('woff2'),
+			url('https://cdn.jsdelivr.net/gh/paulburgess/dlrg-cdn/fonts/alphaone_semibold.woff') format('woff');
+	 font-weight: normal;
+	 font-style: normal;
+
+}
+
+@font-face {
+	 font-family: 'milligram';
+	 src: url('https://cdn.jsdelivr.net/gh/paulburgess/dlrg-cdn/fonts/alphaone_semibold.woff2') format('woff2'),
+			url('https://cdn.jsdelivr.net/gh/paulburgess/dlrg-cdn/fonts/milligram_heavy.woff') format('woff');
+	 font-weight: 700;
+	 font-style: normal;
+
+}
+
+@font-face {
+	 font-family: 'milligram';
+	 src: url('https://cdn.jsdelivr.net/gh/paulburgess/dlrg-cdn/fonts/milligram_medium.woff2') format('woff2'),
+			url('https://cdn.jsdelivr.net/gh/paulburgess/dlrg-cdn/fonts/milligram_medium.woff') format('woff');
+	 font-weight: normal;
+	 font-style: normal;
+
+}
